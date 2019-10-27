@@ -1,2 +1,2 @@
-# webproj.github.io
+# webproj
 загрузка примера проекта
